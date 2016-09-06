@@ -77,7 +77,6 @@ outputs:
       port: { get_property: [nodecellar, port] }
 
 groups:
-groups:
 
   scale_up_group:
     members: [nodejs_host]
