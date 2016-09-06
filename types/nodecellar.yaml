@@ -152,3 +152,4 @@ relationships:
     target_interfaces:
       cloudify.interfaces.relationship_lifecycle:
         preconfigure: scripts/nodejs/set-nodejs-root.sh
+

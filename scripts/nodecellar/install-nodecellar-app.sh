@@ -95,3 +95,4 @@ ${NODEJS_BINARIES_PATH}/bin/npm install
 ctx instance runtime_properties nodecellar_source_path ${NODECELLAR_SOURCE_PATH}
 
 ctx logger info "Sucessfully installed nodecellar"
+

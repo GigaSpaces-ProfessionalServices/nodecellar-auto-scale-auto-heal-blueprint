@@ -22,3 +22,4 @@ policy_types:
       cooldown_time:
         description: the time to wait before evaluating again after a scale
         default: 60
+

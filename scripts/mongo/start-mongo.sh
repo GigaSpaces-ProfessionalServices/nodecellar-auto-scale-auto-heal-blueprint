@@ -70,3 +70,4 @@ wait_for_server ${MONGO_REST_PORT} 'MongoDB'
 ctx instance runtime_properties pid ${PID}
 
 ctx logger info "Sucessfully started MongoDB (${PID})"
+

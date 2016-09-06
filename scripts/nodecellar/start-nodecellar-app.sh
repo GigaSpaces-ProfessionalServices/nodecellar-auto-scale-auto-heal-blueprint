@@ -76,3 +76,4 @@ wait_for_server ${NODECELLAR_PORT} 'Nodecellar'
 ctx instance runtime_properties pid ${PID}
 
 ctx logger info "Sucessfully started Nodecellar (${PID})"
+
